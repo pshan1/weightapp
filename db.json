@@ -2,42 +2,50 @@
   {
     "id": "aec623a2-a98f-405f-bb44-7723f03146f3",
     "weight": 176.0,
-    "date": 20221001
+    "date": 20221001,
+    "unit": "kg"
   },
   {
     "id": "d5704cab-465e-41cf-bc69-a2268114c467",
     "weight": 180.0,
-    "date": 20221002
+    "date": 20221002,
+    "unit": "kg"
   },
   {
     "id": "6e279567-137d-4828-995b-73b61e052e6a",
     "weight": 187.0,
-    "date": 20221003
+    "date": 20221003,
+    "unit": "kg"
   },
   {
     "id": "ee5ff241-d5cc-4339-858a-25766b8dc734",
     "weight": 193.0,
-    "date": 20221004
+    "date": 20221004,
+    "unit": "kg"
   },
   {
     "id": "22948bef-6240-42f5-8844-596f9bdc97fc",
     "weight": 203.0,
-    "date": 20221005
+    "date": 20221005,
+    "unit": "kg"
   },
   {
     "id": "61a794fd-4a05-45b8-9756-e53a05b862c3",
    "weight": 205.0,
-    "date": 20221006
+    "date": 20221006,
+    "unit": "kg"
   },
   {
     "id": "8c410cef-c121-4367-bf2d-7e5d16ae8326",
     "weight": 201.0,
-    "date": 20221007
+    "date": 20221007,
+    "unit": "kg"
   },
   {
     "id": "6f9ddd4c-2b9c-4f6f-ad4c-0f5268d6b859",
    "weight": 208.0,
-   "date": 20221008
+   "date": 20221008,
+    "unit": "kg"
   }
 ]
 }
