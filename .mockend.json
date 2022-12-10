@@ -13,9 +13,7 @@
             }
         },
         "unit":{
-            "string":{
-
-            }
+            "string":['kg','lbs']
         }
     }
 }
